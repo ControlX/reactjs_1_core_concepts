@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.HeadTwo {
+  font-style: italic;
+  background-color: rgb(223, 172, 172);
+}
+
+.ElemCompCss {
+  color: royalblue;
+}
+
+.ClassCompCss {
+  color: goldenrod;
+}
+
+.FuncCompCss {
+  color: blueviolet;
+}
+
+.PureCompCss {
+  color: green;
+}
